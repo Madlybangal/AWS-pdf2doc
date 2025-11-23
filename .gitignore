@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+pdf2docvenv/
+
+# VS Code
+.vscode/
+
+# Uploads / generated files
+uploads/
+converted/

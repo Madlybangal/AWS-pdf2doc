@@ -1,0 +1,23 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.card {
+    border-radius: 0.75rem;
+}
+
+.card-header {
+    border-radius: 0.75rem 0.75rem 0 0;
+}
+
+.card-footer {
+    border-radius: 0 0 0.75rem 0.75rem;
+}
+
+.btn-primary {
+    font-weight: 600;
+}
+
+.form-label {
+    color: #333333;
+}
