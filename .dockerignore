@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+ .env
+ .venv
+ pdf2docenv/
+ .git
+ .gitignore
+ .git
+ .gitignore
+ flash_privagte_key.pem

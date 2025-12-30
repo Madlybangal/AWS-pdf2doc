@@ -1,3 +1,4 @@
 Flask
 PyPDF2
 python-docx
+Werkzeug>=2.0.0
